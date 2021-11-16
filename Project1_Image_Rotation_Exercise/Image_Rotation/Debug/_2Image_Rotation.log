@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(10,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(11,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(78,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(79,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(144,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(158,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Image_Rotation\main.cpp(221,61): warning C4244: '=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+  _2Image_Rotation.vcxproj -> C:\Users\김민식\Desktop\Image_rotation_exercise - 복사본 (2) - 복사본\Debug\Image_Rotation.exe
